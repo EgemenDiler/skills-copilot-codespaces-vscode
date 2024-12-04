@@ -1,0 +1,13 @@
+home-automation/
+│
+├── README.md
+├── src/
+│   ├── main.v          
+│   ├── sensors.v        
+│   ├── controller.v     
+│   ├── actuators.v      
+│   └── clock_divider.v  
+│
+└── testbench/
+    ├── tb_main.v        
+    └── tb_controller.v  
